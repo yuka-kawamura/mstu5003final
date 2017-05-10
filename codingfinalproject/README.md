@@ -1,4 +1,4 @@
-# midterm
+# Final
 
 
 
@@ -11,13 +11,11 @@
 
 # Target Audience: Who is your target audience? Describe in detail
 ## User Stories
-### User Story 1: A 31 years old American man, who has no Japanese learning background at all, is planning on his first visit to Japan. He will be visiting Japan in one week and hoping to learn basic Japanese vocab and sentences so that it will make his traveling experience easier.
-###He made use of the basic traveling vocab practice, and was able to remember some useful words
+##### User Story 1: A 31 years old American man, who has no Japanese learning background at all, is planning on his first visit to Japan. He will be visiting Japan in one week and hoping to learn basic Japanese vocab and sentences so that it will make his traveling experience easier.He made use of the basic traveling vocab practice, and was able to remember some useful words
 
-### User Story 2: A 22 years old Chinese girl (who speaks English), who has no official Japanese learning background,but interested in starting to learn upon on her travel to Japan. She is now planing her travel and wants to know some reccomendation on where to visit. She wants to know must visit, must do , must eat things in Japan.
-### She She used the website to get some information about recommended places to visit. She was able to learn the language in the context of traveling.
+##### User Story 2: A 22 years old Chinese girl (who speaks English), who has no official Japanese learning background,but interested in starting to learn upon on her travel to Japan. She is now planing her travel and wants to know some reccomendation on where to visit. She wants to know must visit, must do , must eat things in Japan.She used the website to get some information about recommended places to visit. She was able to learn the language in the context of traveling.
 
-### User Story 3: A five-member Indonesian family( who speaks English) is planning to travel to Japan in coming May. They are now planing their travel and have some concern about the language,since they heard that Japanese people do not speak English very well. They also have some concern about Japanese unique culture, and wants to know some things to be careful, so that whatever they do won't offend local people, or considered to be rude. They also wants to know some tips in traveling, such as wifi info, and transportation.
+##### User Story 3: A five-member Indonesian family( who speaks English) is planning to travel to Japan in coming May. They are now planing their travel and have some concern about the language,since they heard that Japanese people do not speak English very well. They also have some concern about Japanese unique culture, and wants to know some things to be careful, so that whatever they do won't offend local people, or considered to be rude. They also wants to know some tips in traveling, such as wifi info, and transportation.
 ### The family used the website to learn some basic vocabulary, and also learned some cultural issues to be careful about. They are equipped with useful tips upon traveling to Japan, and were able to have great traveling experience.
 
 
@@ -25,7 +23,7 @@
 ## Site Objectives:
 ###### ・Users will be able to understand and use basic vocabulary and sentences during traveling by studying last minute
 ###### ・User will be able to enjoy the trip and have no problem in doing what they want during travel. It should make their traveling experience more smooth and enjoyable.
-######・Users are informed with places to visit in Japan, things to eat, cultural things to be careful of, and some useful tips which can make their traveling experience more comfortable and exciting.
+###### ・Users are informed with places to visit in Japan, things to eat, cultural things to be careful of, and some useful tips which can make their traveling experience more comfortable and exciting.
 
 # Success Metrics:
 ###### ・Pre assessment: Sine this website is targeted for people who wants to study only for the purpose of traveling, users will be a beginner level. It provides very basic Japanese vocab quiz in the beginning, which will assess their knowledge on basic Japanese language related to travel.
@@ -40,9 +38,9 @@
 # Skeleton: Interface, navigation, information design (You'll provide wireframes here)
 
 ![skelton1](Skelton1.png)
-![skelton2](Skelton2.png)
-![skelton3](Skelton3.png)
-![Skelton4](Skelton4.png)
-![skelton5](Skelton5.png)
-![skelton6](Skelton6.png)
-![skelton7](Skelton7.png)
+![skelton2](skelton2.png)
+![skelton3](skelton3.png)
+![Skelton4](skelton4.png)
+![skelton5](skelton5.png)
+![skelton6](skelton6.png)
+![skelton7](skelton7.png)
